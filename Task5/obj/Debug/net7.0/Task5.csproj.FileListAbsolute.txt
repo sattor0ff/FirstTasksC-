@@ -1,0 +1,15 @@
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\Task5.csproj.AssemblyReference.cache
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\Task5.AssemblyInfoInputs.cache
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\Task5.AssemblyInfo.cs
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\Task5.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\ClassWork14.12\Task5\bin\Debug\net7.0\Task5.exe
+D:\CSharpPractices\ClassWork14.12\Task5\bin\Debug\net7.0\Task5.deps.json
+D:\CSharpPractices\ClassWork14.12\Task5\bin\Debug\net7.0\Task5.runtimeconfig.json
+D:\CSharpPractices\ClassWork14.12\Task5\bin\Debug\net7.0\Task5.dll
+D:\CSharpPractices\ClassWork14.12\Task5\bin\Debug\net7.0\Task5.pdb
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\Task5.dll
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\refint\Task5.dll
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\Task5.pdb
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\Task5.genruntimeconfig.cache
+D:\CSharpPractices\ClassWork14.12\Task5\obj\Debug\net7.0\ref\Task5.dll
